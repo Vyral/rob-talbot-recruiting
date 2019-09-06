@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Antelope Valley Careers
 permalink: /join-our-team/
 ---
 
