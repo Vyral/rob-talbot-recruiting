@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antelope Valley's Best Real Estate Training</title>
+    <title>Antelope Valley's Best Real Estate Training - Rob Talbot</title>
     <description>Rob Talbot, a top Real Estate Agent in Antelope Valley, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Oct 2019 14:46:28 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2019 14:46:28 -0500</lastBuildDate>
+    <pubDate>Thu, 21 Nov 2019 13:13:07 -0600</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2019 13:13:07 -0600</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
